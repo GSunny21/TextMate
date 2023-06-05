@@ -1,70 +1,35 @@
-# Getting Started with Create React App
+**Text-Mate App**
+A web application built with React that provides various text manipulation functionalities.
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+**Features**
+Convert text to uppercase
+Convert text to lowercase
+Find and replace words in the text
+Copy the modified text
+Text summary generation
+Dark and light mode
 
-## Available Scripts
+**Installation**
+To run the application locally, you need to have Node.js and npm (Node Package Manager) installed on your machine. Then, follow these steps:
 
-In the project directory, you can run:
+Clone this repository to your local machine using git clone https://github.com/your-username/text-utils-app.git.
+Navigate to the project directory: cd text-utils-app.
+Install the required dependencies by running npm install.
+Start the development server with npm start.
+Open your browser and visit http://localhost:3000 to access the application.
 
-### `npm start`
+**Usage**
+Once the application is running, you can perform various text manipulations using the provided functionalities:
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+To convert text to uppercase, enter your text in the input box and click the "Convert to Uppercase" button.
+To convert text to lowercase, enter your text in the input box and click the "Convert to Lowercase" button.
+To find and replace words in the text, enter the word to find, the replacement word, and click the "Find and Replace" button.
+To copy the modified text, click the "Copy Text" button. The modified text will be copied to your clipboard.
+To generate a summary of the text, click the "Generate Summary" button. A summary of the input text will be displayed.
+To switch between dark and light mode, click the "Dark Mode" or "Light Mode" button, respectively.
 
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
+**Acknowledgements**
+This application was built using React, a JavaScript library for building user interfaces.
 
-### `npm test`
-
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
-
-### `npm run build`
-
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
-
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
-
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
-
-### `npm run eject`
-
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
-
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
-
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
-
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
-
-## Learn More
-
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
-
-To learn React, check out the [React documentation](https://reactjs.org/).
-
-### Code Splitting
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
-
-### Analyzing the Bundle Size
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
-
-### Making a Progressive Web App
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
-
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+**Contact**
+For any inquiries or questions, you can reach out to me at gunjwatesunny21@gmail.com.
