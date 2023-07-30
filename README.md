@@ -2,12 +2,12 @@
 A web application built with React that provides various text manipulation functionalities.
 
 **Features**
-Convert text to uppercase
-Convert text to lowercase
-Find and replace words in the text
-Copy the modified text
-Text summary generation
-Dark and light mode
+1. Convert text to uppercase
+2. Convert text to lowercase
+3. Find and replace words in the text
+4. Copy the modified text
+5. Text summary generation
+6. Dark and light mode
 
 **Installation**
 To run the application locally, you need to have Node.js and npm (Node Package Manager) installed on your machine. Then, follow these steps:
